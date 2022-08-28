@@ -1,4 +1,2 @@
 # Sandbox
-Testområde
-Dette er et test-område for å krangle med git.
-Test 2
+- New changes
